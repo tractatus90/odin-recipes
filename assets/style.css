@@ -31,3 +31,63 @@
     float: left;
     margin: 10px 50px 0 0;
 }
+
+body.pastel {
+    text-align: justify;
+}
+.intro.pastel {
+    width: 100%;
+    text-align: center;
+}
+
+.intro p {
+    margin: 20px 60px 20px 60px;
+}
+
+.pasos h4 {
+    font-size: larger;
+}
+
+.pasos .uno,
+.tres {
+    text-align: left;
+    margin-right: 20%;
+    background-color:coral;
+
+
+}
+
+.uno, 
+.tres li {
+
+    text-align: left;
+    list-style-position: inside;
+}
+
+.pasos .dos,
+.cuatro {
+    text-align: right;
+    margin-left: 20%;
+    background-color: cornflowerblue;
+
+}
+
+.dos,
+.cuatro li{
+    text-align: right;
+    list-style-position: inside;
+}
+
+.pasos li {
+    padding: 10px 0;
+}
+
+.uno,
+.dos,
+.tres,
+.cuatro {
+    border-bottom: solid 1px;
+
+}
+
+
